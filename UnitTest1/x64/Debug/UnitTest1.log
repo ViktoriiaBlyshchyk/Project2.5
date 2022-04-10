@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Study\ООП\Project2.5\Project2.5\Car.cpp(62,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека D:\Study\ООП\Project2.5\x64\Debug\UnitTest1.lib и объект D:\Study\ООП\Project2.5\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Study\ООП\Project2.5\x64\Debug\UnitTest1.dll
